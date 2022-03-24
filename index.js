@@ -22,7 +22,7 @@
 
 
 
-// coding with nick
+
 
 const body = document.querySelector('.slider-container');
 const slides = document.querySelectorAll('.slide')
